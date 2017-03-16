@@ -1,0 +1,17 @@
+{
+	"name": "axima/payment-gate",
+	"description": "PHP utils for pays.cz integration.",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "greeny",
+			"email": "blatny.tomas@seznam.cz"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Pays\\PaymentGate\\": "src/"
+		}
+	}
+}
