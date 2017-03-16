@@ -3,7 +3,7 @@ PHP utils for pays.cz integration.
 
 ## Installation
 
-	composer require axima/php-payment-gate
+	composer require axima/payment-gate
 
 ## Usage
 
