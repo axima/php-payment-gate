@@ -11,7 +11,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Pays\\PaymentGate\\": "src/"
+			"Axima\\PaymentGate\\": "src/"
 		}
 	}
 }
